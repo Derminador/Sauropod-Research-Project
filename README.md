@@ -5,6 +5,9 @@
 
 Analysis of Dinosaur body mass trends of the T-J boundary are analysed and compared. Special attention hereby is given to the difference between the clade of Sauropodomorpha compared Theropoda and/or Ornithischia.
 
+# I Max of the Stammberger admit that the Acolyte is bad
+
+
 ## Code
 
 	1. Special headers are added
