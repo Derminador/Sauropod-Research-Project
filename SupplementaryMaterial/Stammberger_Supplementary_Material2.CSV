@@ -1,0 +1,64 @@
+Taxa;Clade;Locomotion;Body mass (Kg);Body mass estimation;Reference;Early Interval;Late Interval;Max ma;Min ma
+Ledumahadi_mafube;Sauropodomorpha;Quadrupedal;13308.3;calculated;McPhee et al. 2018;Hettangian;Sinemurian;200;195
+Nhandumirim_waldsangae;Theropoda;Bipedal;3.6;calcualted;Marsola et al. 2019;Carnian;Carnian;233;233
+Pendraig_milnerae;Theropoda;Bipedal;1.9;calculated;Spiekman et al. 2021;Norian;Rhaetian;214.7;201.3
+Tuebingosaurus_maierfritzorum;Sauropodomorpha;Quadrupedal;1608.5;calculated;Regalado Fernàndez & Werneburg 2022;Norian;Rhaetian;227;201.3
+Qianlong_shouhu;Sauropodomorpha;Bipedal;1404.5;calculated;Han et al. 2024;Hettangian;Toarian;201.3;174.7
+Bagualosaurus_agudoensis;Sauropodomorpha;Bipedal;33.4;From Cashmore;Pretto et al. 2018. A new dinosaur (Saurischia: Sauropodomorpha) from the Late Triassic of Brazil provides insights on the evolution of sauropodomorph body plan. Zoological Journal of the Linnean Society, 1–29.;Carnian;Carnian;237;228.4
+Buriolestes_schultzi;Sauropodomorpha;Bipedal;34;From Cashmore;Cabreira et al. 2016. A Unique Late Triassic Dinosauromorph Assemblage Reveals Dinosaur Ancestral Anatomy and Diet. Current Biology.;Carnian;Carnian;237;228.4
+Eucnemesaurus_entaxonis;Sauropodomorpha;Bipedal;495;From Cashmore;McPhee et al. 2015: A second species of Eucnemesaurus Van Hoepen, 1920 (Dinosauria, Sauropodomorpha): new information on the diversity and evolution of the sauropodomorph fauna of South Africa's lower Elliot Formation (latest Triassic), Journal of Vertebrate Paleontology.;Norian;Rhaetian;227;201.3
+Macrocollum_itaquii;Sauropodomorpha;Bipedal;115.3;From Cashmore;Muller et al. 2018. An exceptionally preserved association of complete dinosaur skeletons reveals the oldest long-necked sauropodomorphs. Biol. Lett. 14: 20180634;Norian;Norian;227;208.5
+Meroktenos_thabanensis;Sauropodomorpha;Bipedal;353.2;From Cashmore;"Peyre de Fabrègues and Allain 2016. New material and revision of Melanorosaurus thabanensis, a basal sauropodomorph from the Upper Triassic of Lesotho. PeerJ 4:e1639; DOI 10.7717/peerj.1639";Norian;Rhaetian;227;201.3
+Xingxiulong_chengi;Sauropodomorpha;Quadrupedal;1607.7;From Cashmore;Wang et al 2017. A new basal sauropodiform dinosaur from the Lower Jurassic of Yunnan Province, China. ;Hettangian;Hettangian;201.3;199.3
+Yizhousaurus_sunae;Sauropodomorpha;Bipedal;1771.9;From Cashmore;Zhang et al. 2018. A new sauropodiform dinosaur with a ‘sauropodan’ skull from the Lower Jurassic Lufeng Formation of Yunnan Province, China. Scientific Reports,  8, 13464.;Sinemurian;Sinemurian;199.3;190.8
+Yunnanosaurus_robustus;Sauropodomorpha;Quadrupedal;131;Calculated from Cashmore;Young. 1951. The Lufeng saurischian fauna in China. Palaeontologia Sinica, New Series C 13:1-96;Hettangian;Hettangian;201.3;199.3
+Sanpasaurus_yaoi;Sauropodomorpha;Quadrupedal;3095.7;From Cashmore;McPhee et al 2016. A revision of Sanpasaurus yaoi Young, 1944 from the Early Jurassic of China, and its relevance to the early evolution of Sauropoda (Dinosauria). PeerJ, 4:e2578.;Toarcian;Toarcian;182.7;174.1
+Anchisaurus_polyzelus;Sauropodomorpha;NA;235.6;From Benson;"YPM 208 (MTC; holotype of Ammosaurus major; referred to Anchisaurus polyzelus most recently by Yates 2010); Galton 1973";Hettangian;Sinemurian;201.4;199.5
+Antetonitrus_ingenipes;Sauropodomorpha;NA;5639.7;From Benson;"BP/1/4952 (R. J. Butler pers. comm. 18 Nov 2011); association of material may be questionable (McPhee et al. 2014); Yates & Kitching 2003";Norian;Rhaetian;227;201.4
+Camelotia_borealis;Sauropodomorpha;NA;3800.3;From Benson;"D. Parsons pers. comm. 30 May 2012 (femoral circumference); Galton 1998b; BMNH R2870-R2874, R2876-R2878, vertebrate, ribs, pelvis, hindlimb";Rhaetian;Rhaetian;208.5;201.4
+Chromogisaurus_novasi;Sauropodomorpha;NA;13.1;From Benson;"Ezcurra 2010; PVSJ 845";Carnian;Carnian;237;227
+Eucnemesaurus_fortis;Sauropodomorpha;NA;1429;From Benson;"BP/1/ 6234 (R. J. Butler pers. comm., 18 Nov 2011); Yates 2007; all four specimens lack the humerus; Yates 2007 reported ml shaft diameter = 92 mm, ap diameter = 83 mm in the holotype (TM 119)";Norian;Rhaetian;227;201.4
+Isanosaurus_attavipachi;Sauropodomorpha;NA;3504.9;From Benson;"Buffetaut et al. 2000; CH4; femoral shaft dimensions measured from figure";Norian;Rhaetian;227;201.4
+Jingshanosaurus_xinwaensis;Sauropodomorpha;NA;3105.9;From Benson;"Zhang & Yang 1994; LV 003";Hettangian;Sinemurian;201.4;192.9
+Kotasaurus_yamanpalliensis;Sauropodomorpha;NA;5735.7;From Benson;"Yadagiri 1988; Yadagiri 2001 mentioned larger elements (FL =1390; HL=850), but did not provide more complete measurements";Hettangian;Toarcian;201.3;174.7
+Lamplughsaura_dharmarensis;Sauropodomorpha;NA;1108.7;From Benson;"Kutty et al. 2007; ISI R257 (holotype, largest individual, and only individual with humeri and femora)";Sinemurian;Sinemurian;199.5;192.9
+Lessemsaurus_sauropoides;Sauropodomorpha;NA;2113.6;From Benson;"Pol & Powell 2007; PVL 4822; 4822 ? 53 (humerus, possibly of smaller individual); PVL 4822 ? 64, 4822 ? 65 (femora); measured from figures and PDM (PVL 4822/65, /53)";Norian;Norian;227;208.5
+Lufengosaurus_magnus;Sauropodomorpha;NA;2259;From Benson;"Young 1947; IVPP V82";Hettangian;Sinemurian;201.4;192.9
+Massospondylus_carinatus;Sauropodomorpha;NA;487.7;From Benson;"BP/1/4934 (NC) (neotype; Yates & Barrett 2010)";Hettangian;Sinemurian;201.4;192.9
+Pampadromaeus_barberenai;Sauropodomorpha;NA;8.5;From Benson;"Cabreira et al 2011; femoral circumference provided by S. Cabreira, pers. comm. 13 April 2012";Early_Carnian;Middle_Carnian;237;232
+Plateosauravus_cullingworthi;Sauropodomorpha;NA;1352.8;From Benson;"Haughton 1924; SAM 3342 (largest humerus); SAM 3602 (largest femur; shaft width measured from figure)";Norian;Rhaetian;227;201.4
+Plateosaurus_engelhardti;Sauropodomorpha;NA;917.5;From Benson;"HMN Skelett 45 (MTC); Moser 2004; largest BSP femur (BSP 1962 I 153, PQ XL B), larger, but possibly not associated, femur and humerus on display at Tubingen (Klein, PhD thesis, 2004); MTC data also contains many measurements";Rhaetian;Rhaetian;227;201.4
+Riojasaurus_incertus;Sauropodomorpha;NA;2232.8;From Benson;"PVL 3808 (MTC, largest individual); Bonaparte 1969; PVL 3808 (holotype)";Norian;Norian;227;208.5
+Ruehleia_bedheimensis;Sauropodomorpha;NA;1144.2;From Benson;"MB RVL 1 individual (PDM: MBR 4718.99 [femur] and 4718.39 [humerus]); Galton 2001";Rhaetian;Rhaetian;208.5;201.4
+Sarahsaurus_aurifontanalis;Sauropodomorpha;NA;161.7;From Benson;"Rowe et al. 2010; TMM 43646-2, measured from figures";Sinemurian;Pliensbachian;199.5;184.2
+Saturnalia_tupiniquim;Sauropodomorpha;NA;10.6;From Benson;"Langer et al. 1999, 2007; Langer 2003; MUCP-PV 3844 (type), measured from figures; femoral circumference M.C.S.K. Malabarba pers. comm. 13 April 2012";Carnian;Carnian;237;232
+Tazoudasaurus_naimi;Sauropodomorpha;NA;10315;From Benson;"Humeral circumference from R. Allain, pers. comm. 26 Mar. 2012; Allain & Aquesbi 2008;femur from 'specimen 8' (To1-381) of Peyer & Allain (2010), humerus and ulna from 'specimen 4' (Pt1) (adult referred specimen 'MNHN Pt1', slightly larger than holotype individual); body mass stated as 'around 8 metric tonnes' based on Anderson et al. 1985 (Peyer & Allain 2010)";Pliensbachian;Toarcian;192.9;174.7
+Tonganosaurus_hei;Sauropodomorpha;NA;4573.7;From Benson;"Li et al. 2010; MCDUT 14454";Early_Jurassic;Early_Jurassic;201.3;174.7
+Vulcanodon_karibaensis;Sauropodomorpha;NA;8662.2;From Benson;"Raath 1972; Cooper 1984; QG 24";Hettangian;Hettangian;201.4;199.5
+Xixiposaurus_suni_;Sauropodomorpha;NA;230.9;From Benson;"Seika 2010; ZLJ0108";Hettangian;Sinemurian;201.4;192.9
+Yimenosaurus_youngi;Sauropodomorpha;NA;1904.1;From Benson;"YXV8702, paratype (PDM); Bai et al. 1990; paratype represents a larger individual than the type and so is used here (YXV8702, paratype), postcranial skeleton only briefly described, lacking figures and measurements";Hettangian;Sinemurian;201.4;192.9
+Yunnanosaurus_huangi;Sauropodomorpha;NA;453.8;From Benson;"Young 1942; IVPP V20 (holotype skeleton); a larger femur ('V32t') has FL=460, midshaft width=68";Hettangian;Sinemurian;201.4;192.9
+Coelophysis_bauri_average;Theropoda;NA;9.4;From Benson;"AMNH 2704 (MTC); 'C. longicollis' | Colbert (1989); AMNH 7223";Norian;Rhaetian;227;201.4
+Coelophysis_kayentakatae;Theropoda;NA;30.2;From Benson;"MNA V2623; MCZ 9175 (cast of type, MNA V2623); Rowe 1989";Sinemurian;Pliensbachian;199.5;184.2
+Coelophysis_rhodesiensis;Theropoda;NA;13.1;From Benson;"QG1 [holotype] (MTC); Raath 1969";Hettangian;Sinemurian;201.4;192.9
+Cryolophosaurus_ellioti;Theropoda;NA;348.8;From Benson;Smith et al., 2007;Sinemurian;Pliensbachian;199.5;184.2
+Dilophosaurus_sinensis;Theropoda;NA;561.6;From Benson;LDM-LCA 10;Hettangian;Sinemurian;201.4;192.9
+Dilophosaurus_wetherilli_average;Theropoda;NA;319.4;From Benson;"UCMP 77270 (RBJB) | UCMP 37302 (MTC); Welles 1983";Sinemurian;Pliensbachian;199.5;184.2
+Eoraptor_lunensis;Theropoda;NA;17.3;From Benson;"PVSJ 512 (MTC); Martinez et al. 2011";Carnian;Carnian;237;227
+Eodromaeus_murphi;Theropoda;NA;7.1;From Benson;"Martinez et al. 2011; PVSJ 562; ""highly crushed"" (S. brusatte, pers. comm. 5 December 2011)- so estimated from Eoraptor";Carnian;Carnian;237;227
+Gojirasaurus_quayi;Theropoda;NA;193;From Benson;Carpenter 1997;Norian;Norian;227;208.5
+Guaibasaurus_candelariensis;Theropoda;NA;33.5;From Benson;"Bonaparte et al. 1999; Langer et al. 2011; MCN-PV 2355; UFRGS PV0725T (larger specimen-used measurements)";Norian;Norian;227;208.5
+Herrerasaurus_ischigualastensis_average;Theropoda;NA;179;From Benson;"PVL 2566 (MTC); Novas 1993 | PVSJ 373";Carnian;Carnian;237;227
+Liliensternus_liliensterni;Theropoda;NA;83.5;From Benson;"Huene 1934; HMN R1291(larger individual)";Rhaetian;Rhaetian;208.5;201.4
+Procompsognathus_triassicus;Theropoda;NA;1.1;From Benson;"SMNS 12591 (MTC; circumference measured by P. Vincent 22 Nov 2011); Sereno & Wild 1992";Norian;Norian;227;208.5
+Sarcosaurus_woodi;Theropoda;NA;101.3;From Benson;BMNH 4840 (MTC);Sinemurian;Sinemurian;199.5;199.5
+Segisaurus_halli;Theropoda;NA;5;From Benson;"Camp 1936 (UCMP 32101); Carrano et al. 2005";Pliensbachian;Toarcian;192.9;174.7
+Staurikosaurus_pricei;Theropoda;NA;23.2;From Benson;"MCZ 1669 (MTC); Colbert 1970";Early_Carnian;Middle_Carnian;237;232
+Tawa_hallae;Theropoda;NA;3.2;From Benson;"measured from Nesbitt et al. (2009, fig. 2); femur GR 244";Norian;Norian;227;208.5
+Abrictosaurus_consors;Ornithischia;NA;1.4;From Benson;"BMNH RU B.54 (MTC); Thulborn 1974";Hettangian;Sinemurian;201.4;192.9
+Heterodontosaurus_tucki;Ornithischia;NA;5.2;From Benson;SAM-PK-K1332 (NEC);Hettangian;Sinemurian;201.4;192.9
+Lesothosaurus_diagnosticus;Ornithischia;NA;6.3;From Benson;BMNH RUB17 (RBJB);Hettangian;Sinemurian;201.4;192.9
+Pisanosaurus_mertii;Ornithischia;NA;35.5;From Benson;PVL 2577 (MTC);Carnian;Carnian;237;227
+Scelidosaurus_harrisonii;Ornithischia;NA;645.3;From Benson;BMNH R1111 (MTC);Sinemurian;Sinemurian;199.5;192.9
+Scutellosaurus_lawleri;Ornithischia;NA;26.6;From Benson;MCZ 8797 (MTC);Sinemurian;Pliensbachian;199.5;184.2
+Stormbergia_dangershoeki;Ornithischia;NA;46.3;From Benson;Butler 2005;Hettangian;Sinemurian;201.4;192.9

@@ -21,5 +21,6 @@ Analysis of Dinosaur body mass trends of the T-J boundary are analysed and compa
 		- all triassic data using log transformation with linear smoothing
 		- all trassic data comapring sauropods to non sauropods with linear smooting
 		- repeating the triassic steps with the jurassic time period
+		- after every plot, mean values and slopes where calculated
 	5. Boxplots specifically for sauropodomorpha are created
 		- t test is perforemd to check for significant differnce between the two datasets
